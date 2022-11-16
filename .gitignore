@@ -110,6 +110,7 @@ ENV/
 env.bak/
 venv.bak/
 ./Coder_Django/venv/
+./Platzi_Django/venv/
 
 # Spyder project settings
 .spyderproject
